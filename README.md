@@ -47,6 +47,8 @@ Este proyecto es una aplicación web que permite a los usuarios agregar nombres 
 - **Guardar la lista de amigos**: Implementar almacenamiento local para que la lista persista después de recargar la página.
 - **Interfaz más atractiva**: Mejorar el diseño con animaciones y colores más modernos.
 - **Compartir el resultado**: Agregar la opción de compartir el nombre sorteado en redes sociales.
+## 🤝 Contribuciones
+Gracias a @ALURALATAM por su contribución.
 ## 📜 Licencia
 
 Este proyecto está bajo la licencia **MIT**. Para más detalles.
